@@ -38,5 +38,5 @@ a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 function makeInt(n) {
   return('n', n)
-  return('nxn', n)
+  return('n.', n)
 }
