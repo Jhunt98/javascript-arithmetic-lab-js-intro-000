@@ -37,6 +37,5 @@ function dec(n) {
 a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 function makeInt(n) {
-  return('n', n)
-  return('n.n', n)
+  return parseInt('n', n)
 }
