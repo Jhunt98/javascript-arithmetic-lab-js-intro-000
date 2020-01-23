@@ -40,4 +40,3 @@ function makeInt(n) {
   return('n', n)
   return('n.n', n)
 }
-
